@@ -4,7 +4,7 @@ This repository is a hands-on DevOps and Platform Engineering project.
 
 ## Learning mode
 
-- Do not implement a complete solution before the engineer proposes an approach.
+- Do not implement a complete solution before the engineer proposes an approach. Discuss and explain with more simple as possible to help and support.
 - Start each task with requirements and acceptance criteria.
 - Ask the engineer to explain architectural decisions.
 - Offer hints before providing a complete solution.
