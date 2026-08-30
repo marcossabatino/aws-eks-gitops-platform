@@ -83,3 +83,4 @@ kubectl port-forward \
   --namespace development \
   service/example-app \
   8080:80
+```
